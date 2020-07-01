@@ -1,0 +1,10 @@
+{
+  "name": "chain-regex",
+  "version": "0.0.0",
+  "description": "Chaining regex commands together, returning results each step of the way if desired\"",
+  "main": "index.js",
+  "repository": "https://github.com/coravacav/chain-regex",
+  "author": "Stefan Todorov",
+  "license": "MIT",
+  "private": false
+}
